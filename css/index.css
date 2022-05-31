@@ -1039,7 +1039,7 @@ form button:hover{
     .main-home-text{
         left: 50%;
         transition: all .5s ease;
-        bottom: 30%;
+        bottom: 3%;
         transform: translate(-50%,-50%);
         font-size: 40px;
     }
@@ -1242,7 +1242,7 @@ form button:hover{
     }
     .main-home-text{
         left: 50%;
-        bottom: 20%;
+        bottom: 3%;
         transform: translate(-50%,-50%);
     }
     .home-text{
