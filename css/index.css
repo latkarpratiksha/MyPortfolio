@@ -73,7 +73,7 @@
         justify-content: center;
         display: flex;
         font-family: night;
-        min-height:120px ;
+        min-height:150px ;
         background: linear-gradient(90deg,#0E0E11, rgb(235,235,235) ,#0E0E11);
         background-repeat: no-repeat;
         animation:loader 3s linear infinite;
@@ -83,6 +83,7 @@
         background-clip:text;
         -webkit-text-fill-color: transparent;
         text-fill-color: none;
+        align-items: center;
     }
 
  
