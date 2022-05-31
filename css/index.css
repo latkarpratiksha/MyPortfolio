@@ -485,8 +485,8 @@ color:rgb(235, 235, 235);
     margin:50px;
     margin-top: 100px;
     background: #A1A5A6;
-    border-bottom: 15px solid #0E0E11;
-    border-top: 15px solid #0E0E11;
+    border: 5px solid #0E0E11;
+    border-radius: 5px;
 }
 .about-img img{
     width:100%;
