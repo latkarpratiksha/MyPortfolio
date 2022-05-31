@@ -78,7 +78,7 @@ function slideshowmobile(){
   if(index2 > images.length-1){
     index2 = 0;
   }
-  gsap.to(imgholder,1,{backgroundImage:`url('%24%7bimagesrc%5bindex2%5d%7d.html')`,duration:1});
+  gsap.to(imgholder,1,{backgroundImage:`url('${imagesrc[index2]}')`,duration:1});
 }
 setInterval(slideshowmobile,5000);
 //animation-on-scroll
